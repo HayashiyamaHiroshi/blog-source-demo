@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e201b8-6f83-49a3-8419-88588015e175" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64e201b8-6f83-49a3-8419-88588015e175" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1jLp31CmXs3IPmxJg0IXPPRKbRU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,8 +25,14 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="ts.external.directory.path" value="C:\Users\Hiroshi\Desktop\ReactTypeStudy\001_hooks_context\node_modules\typescript\lib" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="F:\JetBrain\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost:3000 DEBUG" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,10 +46,87 @@
       <updated>1603593024099</updated>
       <workItem from="1603593031486" duration="548000" />
       <workItem from="1603593797218" duration="157000" />
+      <workItem from="1603792936585" duration="1309000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="595" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603793976255">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="0" y="595" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603793976255" />
+    <state width="1037" height="661" key="GridCell.Tab.0.bottom" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.0.bottom/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.0.center" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.0.center/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.0.left" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.0.left/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.0.right" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.0.right/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.1.bottom" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.1.bottom/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.1.center" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.1.center/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.1.left" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.1.left/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.1.right" timestamp="1603794239189">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.1.right/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239189" />
+    <state width="1037" height="661" key="GridCell.Tab.2.bottom" timestamp="1603794239190">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.2.bottom/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239190" />
+    <state width="1037" height="661" key="GridCell.Tab.2.center" timestamp="1603794239190">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.2.center/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239190" />
+    <state width="1037" height="661" key="GridCell.Tab.2.left" timestamp="1603794239190">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.2.left/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239190" />
+    <state width="1037" height="661" key="GridCell.Tab.2.right" timestamp="1603794239190">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="661" key="GridCell.Tab.2.right/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603794239190" />
+    <state x="48" y="582" key="SettingsEditor" timestamp="1603793061626">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="48" y="582" key="SettingsEditor/0.0.1080.1880/-2568.300.2560.1440/-1920.-780.1920.1080@0.0.1080.1880" timestamp="1603793061626" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

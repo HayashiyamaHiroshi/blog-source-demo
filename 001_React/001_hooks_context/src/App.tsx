@@ -1,5 +1,4 @@
 import React, {FC, useContext} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {CounterContext, CounterContextProvider} from "./Contexts/CounterProvider";
 import {Decrement, Increment, IncrementAction} from "./Reducers/CounterReducer";
@@ -18,10 +17,10 @@ const Counter : FC = () => {
       <div>
         <h2>this is counter app.</h2>
         <p>{context.count}</p>
+        {console.log(context.count)}
         <button onClick={() => context.dispatch(Increment())}>increment</button>
         <button onClick={() => context.dispatch(Decrement())}>decrement</button>
       </div>
-
   )
 };
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1</ID>
+  <Name>杉山</Name>
+  <Address>東京都</Address>
+</User>

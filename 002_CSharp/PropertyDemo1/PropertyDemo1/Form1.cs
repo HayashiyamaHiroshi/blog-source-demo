@@ -24,9 +24,9 @@ namespace PropertyDemo1
         {
             _users = new List<User>()
             {
-                new User(20,1,"杉山","東京都")
-                ,new User(30,2,"山田","愛知県")
-                ,new User(25,3,"鈴木","秋田県")
+                new User(20,1,"杉山","東京都","男")
+                ,new User(30,2,"山田","愛知県","女")
+                ,new User(25,3,"鈴木","秋田県","男")
             };
             dataGridView1.DataSource = _users;
         }
